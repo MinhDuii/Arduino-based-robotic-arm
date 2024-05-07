@@ -1,6 +1,6 @@
 # Arduino-based-robotic-arm
 
-- This project is intended to aim for various sectors:
+This project is intended to aim for various sectors:
 + Manufacturers: Streamline production, enhance efficiency, and ensure product quality.
 + Automation Labs: Facilitate research, experimentation, and innovation in robotics.
 + Logistics Companies: Optimize warehouse operations and improve material handling.
@@ -10,11 +10,11 @@
 + Welding and Fabrication: Enhance precision and productivity in welding processes.
 + Arduino-based robotic arms offer versatile, cost-effective solutions for automation and innovation across industries.
 
-- This app is used to streamline production processes, ensure product quality, and optimize efficiency in manufacturing operations. Additionally, it facilitates research, experimentation, and innovation in automation labs, while also enhancing material handling and logistics in warehouse environments. Furthermore, it enables creative exploration and project development for artists and designers. Lastly, it improves precision and productivity in welding and fabrication industries.
+This app is used to streamline production processes, ensure product quality, and optimize efficiency in manufacturing operations. Additionally, it facilitates research, experimentation, and innovation in automation labs, while also enhancing material handling and logistics in warehouse environments. Furthermore, it enables creative exploration and project development for artists and designers. Lastly, it improves precision and productivity in welding and fabrication industries.
 
-- In this prototype, users should be able to control the robotic arm's movements accurately and efficiently. They should also be able to program the arm to perform various tasks autonomously. Additionally, users should have the ability to integrate the robotic arm into existing systems seamlessly. Finally, the prototype should provide users with real-time feedback and monitoring capabilities to ensure smooth operation and troubleshoot any issues effectively.
+In this prototype, users should be able to control the robotic arm's movements accurately and efficiently. They should also be able to program the arm to perform various tasks autonomously. Additionally, users should have the ability to integrate the robotic arm into existing systems seamlessly. Finally, the prototype should provide users with real-time feedback and monitoring capabilities to ensure smooth operation and troubleshoot any issues effectively.
 
-- The limitations of this prototype include potential hardware constraints, such as limited payload capacity or range of motion. Additionally, there may be limitations in the precision and accuracy of the robotic arm's movements, which could affect its suitability for certain tasks. Software limitations, such as programming complexity or lack of advanced features, may also impact user experience. Finally, compatibility issues with other systems or devices could pose challenges in integration and interoperability.
+The limitations of this prototype include potential hardware constraints, such as limited payload capacity or range of motion. Additionally, there may be limitations in the precision and accuracy of the robotic arm's movements, which could affect its suitability for certain tasks. Software limitations, such as programming complexity or lack of advanced features, may also impact user experience. Finally, compatibility issues with other systems or devices could pose challenges in integration and interoperability.
 
 ## Used By
 
