@@ -1,15 +1,5 @@
 # Arduino-based-robotic-arm
 
-This project is intended to aim for various sectors:
-+ Manufacturers: Streamline production, enhance efficiency, and ensure product quality.
-+ Automation Labs: Facilitate research, experimentation, and innovation in robotics.
-+ Logistics Companies: Optimize warehouse operations and improve material handling.
-+ Creative Fields: Enable artists and designers to explore interactive projects.
-+ Material Handling: Automate tasks like palletizing and sorting in warehouses.
-+ Quality Control and Inspection: Ensure product quality and consistency.
-+ Welding and Fabrication: Enhance precision and productivity in welding processes.
-+ Arduino-based robotic arms offer versatile, cost-effective solutions for automation and innovation across industries.
-
 This app is used to streamline production processes, ensure product quality, and optimize efficiency in manufacturing operations. Additionally, it facilitates research, experimentation, and innovation in automation labs, while also enhancing material handling and logistics in warehouse environments. Furthermore, it enables creative exploration and project development for artists and designers. Lastly, it improves precision and productivity in welding and fabrication industries.
 
 In this prototype, users should be able to control the robotic arm's movements accurately and efficiently. They should also be able to program the arm to perform various tasks autonomously. Additionally, users should have the ability to integrate the robotic arm into existing systems seamlessly. Finally, the prototype should provide users with real-time feedback and monitoring capabilities to ensure smooth operation and troubleshoot any issues effectively.
@@ -19,9 +9,14 @@ The limitations of this prototype include potential hardware constraints, such a
 ## Used By
 
 This project is used by the following groups:
-
-- Company 1
-- Company 2
++ Manufacturers: Streamline production, enhance efficiency, and ensure product quality.
++ Automation Labs: Facilitate research, experimentation, and innovation in robotics.
++ Logistics Companies: Optimize warehouse operations and improve material handling.
++ Creative Fields: Enable artists and designers to explore interactive projects.
++ Material Handling: Automate tasks like palletizing and sorting in warehouses.
++ Quality Control and Inspection: Ensure product quality and consistency.
++ Welding and Fabrication: Enhance precision and productivity in welding processes.
++ Arduino-based robotic arms offer versatile, cost-effective solutions for automation and innovation across industries.
 
 
 ## The three tasks have been covered
